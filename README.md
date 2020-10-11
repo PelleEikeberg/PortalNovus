@@ -2,7 +2,7 @@
 A repository for the Portal Novus University project
 
 ## This is a part of the Portal-Space project (https://portalspace.no/)
-![alt text](https://raw.githubusercontent.com/PelleEikeberg/PortalNovus/master/random%20(for%20README%20and%20such)/Portal%20banner.png?token=AN63RW5VFNST4IAFQYIRF427QMPUW)
+![alt text](https://raw.github.com/PelleEikeberg/PortalNovus/master/random%20(for%20README%20and%20such)/Portal%20banner.png?token=AN63RW5VFNST4IAFQYIRF427QMPUW)
 
 ## Purpose of the repository
 This repository is for showing the work completed or nearly finished. We will add files and work that requires almost no fixes, and can be used as is. The .stl files are the ones we have used in active flights. The arduino code and pictures of circuits, are the circuits we have used in launches and/or tests.
