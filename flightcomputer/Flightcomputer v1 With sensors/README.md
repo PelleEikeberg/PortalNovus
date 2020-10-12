@@ -27,3 +27,5 @@ The flightcomputer is a build on the previous version (version v0). This version
 The height plotted from simple elevator trip. The last datapoint is not correct, mostly because we have to stop the SD logging by turning the data off. this means the last point is almost always bad.
 
 ![alt text](https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/data_height.png)
+
+<img src="https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/data_height.png" width="200">
