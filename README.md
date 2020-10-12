@@ -9,13 +9,17 @@ This repository is for showing the work completed or nearly finished. We will ad
 
 This is not a repository that is meant as a guide, but rather a "museum" that we can use to compare our newer projects with the previous ones
 
-### Videos
-some flight videos and videos of the projects underway
+<!-- ### Videos
+some flight videos and videos of the projects underway -->
 
-### Files (3D .stl files, and Fusion files)
+### flightcomputer
+The different versions of the flightcomputer. the v1 is the current version, and has datalogger and lights and sound.
+
+### Fusion_and_STL_files (3D .stl files, and Fusion files)
 Different categories for the files, some files are for non-TVC and other for TVC
 
-### Code (arduino code, both for flight computer and launchpad)
-Codes for flight computer and launchpad. some codes change drastically depending on the hardware
+<!-- ### Code (arduino code, both for flight computer and launchpad)
+Codes for flight computer and launchpad. some codes change drastically depending on the hardware -->
+
 
 
