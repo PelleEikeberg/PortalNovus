@@ -15,17 +15,14 @@ The flightcomputer is a build on the previous version (version v0). This version
 
 - made the soldered-on version. this had only the basics:
 
-![alt text](https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/Flightcomputer%20v1%20with%20only%20sensors.jpg)
-
+<img src="https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/Flightcomputer%20v1%20with%20only%20sensors.jpg" width="600">
 
 - made simple version that had light indicators and the sensors to test the logging:
 
-![alt text](https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/flightcomputer%20v1%20soldered%20onto%20two%20plates.jpeg)
+<img src="https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/flightcomputer%20v1%20soldered%20onto%20two%20plates.jpeg" width="600">
 
 - logged to test the data:
 
 The height plotted from simple elevator trip. The last datapoint is not correct, mostly because we have to stop the SD logging by turning the data off. this means the last point is almost always bad.
 
-![alt text](https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/data_height.png)
-
-<img src="https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/data_height.png" width="200">
+<img src="https://raw.github.com/PelleEikeberg/PortalNovus/master/flightcomputer/Flightcomputer%20v1%20With%20sensors/data_height.png" width="600">
